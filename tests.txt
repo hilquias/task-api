@@ -1,0 +1,3 @@
+src/data/verify.sql
+src/api/verify.sql
+src/rc/verify.sql
